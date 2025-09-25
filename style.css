@@ -1,0 +1,16 @@
+.post {
+    border: 2px solid black;
+    width: 505px;
+    height: 500px;
+    margin: o auto;
+    margin-bottom: 50px;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+
+.post-header p {
+    font-size: 20px;
+}
