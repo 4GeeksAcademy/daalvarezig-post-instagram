@@ -1,6 +1,12 @@
 body {
     background-color: rgba(244, 246, 248, 0.89);
 }
+h1 {
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+   
+}
 .post {
     border: 2px solid black;
     width: 505px;
@@ -16,4 +22,11 @@ body {
 
 .post-header p {
     font-size: 20px;
+}
+
+.post-img {
+    text-align: center;
+}
+footer {
+    padding: 30px;
 }
