@@ -1,8 +1,11 @@
+body {
+    background-color: rgba(244, 246, 248, 0.89);
+}
 .post {
     border: 2px solid black;
     width: 505px;
     height: 500px;
-    margin: o auto;
+    margin: 0 auto;
     margin-bottom: 50px;
 }
 .post-header {
